@@ -3,7 +3,7 @@ CryoEM workshop introducing undergraduate students to image processing tools in 
 
 Please reach out with problems, comments, suggestions, etc.
 
-These notebooks can be run on google colab, and the associated data can be added to your own google drive here: https://drive.google.com/drive/folders/17gJqcVaEjr_vzB8jDPuU1GTsWbEUh3tng. Be sure to "add shortcut to drive" such that this folder is accessible in your own google account.
+These notebooks can be run on google colab, and the associated data can be added to your own google drive here: https://drive.google.com/drive/folders/17gJqcVaEjr_vzB8jDPuU1GTsWbEUh3tn. Be sure to "add shortcut to drive" such that this folder is accessible in your own google account.
 
 
 All data analyzed in these notebooks taken from https://www.ebi.ac.uk/empiar/EMPIAR-10025/, based on work from:<br>
