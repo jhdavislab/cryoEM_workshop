@@ -1,4 +1,4 @@
-# wqbio2022
+# The MIT winter quantitative biology cryoEM workshop
 CryoEM workshop introducing undergraduate students to image processing tools in Python. Material developed by Prof. Joey Davis (jhdavis@mit.edu), and graduate students Barrett Powell (bmp@mit.edu) and Laurel Kinman (lkinman@mit.edu). 
 
 Please reach out with problems, comments, suggestions, etc.
